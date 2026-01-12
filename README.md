@@ -1,8 +1,3 @@
-To write an effective `README.md` for your GitHub repository, you need a professional structure that clearly explains what your project does, how to set it up, and how to use it.
-
-Since the repository `Omshri47/crypto_project` appears to be private or very new, I have designed a comprehensive and versatile template below. You can copy this directly into your repository and fill in the bracketed placeholders (e.g., `[Project Name]`) with your specific details.
-
----
 
 # 🚀 Crypto Project
 
